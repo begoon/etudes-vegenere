@@ -1,0 +1,29 @@
+COMPILE
+редиска
+
+Базовая алфавитная перестановка, использованная для шифрования:
+
+EXACRBTIONDFGWVYZHJKLMPQUS
+
+Открытый текст известен - это начало главы про компилятор.
+
+---
+A ⟨compilation⟩ is a string of self-contained ⟨program segment⟩s; each segment
+is either a ⟨main program⟩ or an ⟨external procedure⟩. All the segments of
+a ⟨compilation⟩ will be associated together by the loader, but it is not 
+necessary that all segments needed to complete a load be compiled together. 
+A load must contain exactly one ⟨main program⟩.
+---
+
+https://habr.com/ru/articles/221485/
+
+https://vak.dreamwidth.org/575539.html
+https://vak.dreamwidth.org/520043.html
+
+
+В оригинале, действительно, одна строка - между строками, начинающимися 
+на ZTBCW и YMTIK выпала. Из-за того, что ни количество групп в строке (11),
+ни количество букв в группе (5) не кратно длине ключа (7), это приводит
+к искажению статистики, но, видимо, не настолько сильному, чтобы превратить
+всё в полную мешанину, раз переводчики смогли разобраться. Если бы выпала
+строка ближе к середине, было бы гораздо хуже.
