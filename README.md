@@ -1,6 +1,4 @@
-# etudes-vs
-
-Breaking a modified Vigenere cipher on Russian text.
+# Breaking a modified Vigenere cipher on Russian text
 
 The cipher uses a 32-character Russian alphabet (without Ё) with a randomly mixed base alphabet instead of the standard one.
 
